@@ -7,6 +7,10 @@ A thread in Java goes through **different states** from creation to completion.
 
 ---
 
+![🧵 Java Thread Life Cycle](LC.jpg)
+
+---
+
 ## 🟢 1. **NEW State**
 
 **How it comes here:**
